@@ -183,6 +183,3 @@ console.log("--------------------");
 let str = "The quick brown fox";
 let splitedArray = str.split(" ");
 console.log(splitedArray);
-
-
-

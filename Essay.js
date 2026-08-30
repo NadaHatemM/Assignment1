@@ -17,7 +17,7 @@ let x=9;
 
 TDZ ==> it is the period where let and const are known but can't be used until initialization.
 in var it will hoisted then initialization as undefined
-but in lat and const wll be hoisted and will be in Temporal Dead zone
+but in lat and const will be hoisted and will be in Temporal Dead zone
 
 */
 
@@ -48,4 +48,3 @@ Type  conversion ==> it can manually convert types
 String(123) Number("123")  Boolean(1)  
 
 */
-
