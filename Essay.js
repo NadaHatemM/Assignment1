@@ -5,6 +5,7 @@ It is useful when we want to do something with every element.
 --------
 for ..of ==>  is used to loop through the values of an array one by one. 
 It is useful when we want more control over the loop, such as using break or continue.
+also works on any iterable
 
 */
 
